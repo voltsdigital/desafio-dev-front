@@ -32,7 +32,7 @@ Você não é obrigado a dominar alguns dos itens acima como, por exemplo, Docke
 2. Transforme a tela, que está no formato Sketch, em **HTML**, **CSS** e **JS** (o link para download está abaixo, e se você não é um Mac User, pode usar o https://zeplin.io/ para ver o arquivo Sketch).
 3. Desenvolva todo o seu código utilizando-se de boas práticas.
 4. Faça uso, onde necessário, do JSDoc (https://devdocs.io/jsdoc/).
-5. Após finalizar seu teste, preencha a sessão [Instalação (para uso do candidato)](#markdown-header-instalacao-para-uso-do-candidato).
+5. Após finalizar seu teste, preencha a sessão [Instalação (para uso do candidato)](#instalação-de-uso-obrigatório-do-candidato).
 
 #### Para baixar a tela:
 1. Acesse https://www.dropbox.com/sh/vzxgxklxuykbnvy/AAAEEAg3-eVMQ7_eFsbcBHPca?dl=0.
